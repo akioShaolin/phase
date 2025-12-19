@@ -5,7 +5,7 @@ desenvolvida em Python com interface Tkinter.
 
 ## 🔧 Funcionalidades implementadas
 - Inserção de cargas elétricas por potência
-- Seleção de fases (R, S, T e Neutro)
+- Seleção de fases (A, B, C e Neutro)
 - Cálculo automático da corrente
 - Soma vetorial das correntes
 - Cálculo da corrente no neutro
@@ -17,9 +17,9 @@ desenvolvida em Python com interface Tkinter.
 - Tensões defasadas em 120°
 - Cargas puramente resistivas (FP = 1)
 - Ângulos fixos:
-  - R = 0°
-  - S = -120°
-  - T = +120°
+  - A = 0°
+  - B = -120°
+  - C = +120°
 
 ## 🖥️ Executável
 O executável Windows está disponível na aba **Releases**.
@@ -29,4 +29,3 @@ O executável Windows está disponível na aba **Releases**.
 - Tkinter
 - NumPy
 - Matplotlib
-ECHO est� ativado.
