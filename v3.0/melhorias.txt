@@ -1,0 +1,6 @@
+admitir cargas reativas
+adicionar fasores de tensão em vermelho pontilhado
+mudar gráfico para coordenadas polares
+adicionar presets
+melhorar design
+melhorar interatividade
